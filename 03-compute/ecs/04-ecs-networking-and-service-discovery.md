@@ -1,29 +1,5 @@
-# Ecs Networking And Service Discovery
+# ECS Networking & Service Discovery
 
-> Section: 03 Compute
-> Status: 🚧 Draft — notes to be expanded
+awsvpc network mode, Cloud Map integration.
 
-## Overview
-
-_TODO: Add a concise overview of **Ecs Networking And Service Discovery** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **EKS** – [EKS Architecture](../eks/01-eks-architecture.md)

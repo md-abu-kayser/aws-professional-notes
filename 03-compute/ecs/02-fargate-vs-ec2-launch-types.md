@@ -1,29 +1,5 @@
-# Fargate Vs Ec2 Launch Types
+# Fargate vs EC2 Launch Types
 
-> Section: 03 Compute
-> Status: 🚧 Draft — notes to be expanded
+Fargate: serverless containers. EC2: manage your own nodes.
 
-## Overview
-
-_TODO: Add a concise overview of **Fargate Vs Ec2 Launch Types** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Service Auto Scaling](03-service-auto-scaling.md)
