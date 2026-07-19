@@ -1,29 +1,5 @@
-# Eks Architecture
+# EKS Architecture
 
-> Section: 03 Compute
-> Status: 🚧 Draft — notes to be expanded
+Managed Kubernetes control plane. Worker nodes via managed node groups or Fargate.
 
-## Overview
-
-_TODO: Add a concise overview of **Eks Architecture** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Node Groups & Fargate](02-node-groups-and-fargate.md)

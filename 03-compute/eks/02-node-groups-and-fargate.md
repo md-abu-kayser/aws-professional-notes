@@ -1,29 +1,5 @@
-# Node Groups And Fargate
+# Node Groups & Fargate for EKS
 
-> Section: 03 Compute
-> Status: 🚧 Draft — notes to be expanded
+Managed node groups for EC2, Fargate for serverless pods.
 
-## Overview
-
-_TODO: Add a concise overview of **Node Groups And Fargate** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [EKS Cluster Autoscaler](03-eks-cluster-autoscaler.md)

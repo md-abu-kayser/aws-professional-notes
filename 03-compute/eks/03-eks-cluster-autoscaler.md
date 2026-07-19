@@ -1,29 +1,5 @@
-# Eks Cluster Autoscaler
+# EKS Cluster Autoscaler
 
-> Section: 03 Compute
-> Status: 🚧 Draft — notes to be expanded
+Automatically adjusts number of nodes in a node group.
 
-## Overview
-
-_TODO: Add a concise overview of **Eks Cluster Autoscaler** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **Elastic Beanstalk** – [Beanstalk Concepts](../elastic-beanstalk/01-beanstalk-concepts.md)
