@@ -1,29 +1,5 @@
-# Caching Strategies And Failover
+# Caching Strategies & Failover
 
-> Section: 05 Databases
-> Status: 🚧 Draft — notes to be expanded
+Lazy loading, write‑through. Redis replication and failover.
 
-## Overview
-
-_TODO: Add a concise overview of **Caching Strategies And Failover** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **DocumentDB & Neptune** – [NoSQL & Graph Database Options](../documentdb-and-neptune/01-nosql-and-graph-database-options.md)
