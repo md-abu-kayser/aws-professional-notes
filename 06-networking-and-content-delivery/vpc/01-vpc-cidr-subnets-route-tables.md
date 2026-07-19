@@ -1,29 +1,5 @@
-# Vpc Cidr Subnets Route Tables
+# VPC – CIDR, Subnets, Route Tables
 
-> Section: 06 Networking And Content Delivery
-> Status: 🚧 Draft — notes to be expanded
+Define virtual network. Public/private subnets, routing to gateways.
 
-## Overview
-
-_TODO: Add a concise overview of **Vpc Cidr Subnets Route Tables** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Internet Gateway & NAT Gateway](02-internet-gateway-and-nat-gateway.md)
