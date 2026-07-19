@@ -1,29 +1,5 @@
-# Iam Best Practices And Security
+# IAM Best Practices
 
-> Section: 02 Iam Identity And Access Management
-> Status: 🚧 Draft — notes to be expanded
+Enable MFA, use roles for applications, least privilege, rotate keys, use IAM Access Analyzer.
 
-## Overview
-
-_TODO: Add a concise overview of **Iam Best Practices And Security** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Identity Providers & Federation](06-identity-providers-and-federation.md)

@@ -1,29 +1,5 @@
-# Identity Providers And Federation
+# Identity Providers & Federation
 
-> Section: 02 Iam Identity And Access Management
-> Status: 🚧 Draft — notes to be expanded
+SAML 2.0, OIDC. Federate corporate users to AWS (SSO).
 
-## Overview
-
-_TODO: Add a concise overview of **Identity Providers And Federation** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [AWS Organizations & SCP](07-aws-organizations-and-scp.md)

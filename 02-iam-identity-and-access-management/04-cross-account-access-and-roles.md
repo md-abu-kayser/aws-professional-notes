@@ -1,29 +1,5 @@
-# Cross Account Access And Roles
+# Cross‑Account Access & Roles
 
-> Section: 02 Iam Identity And Access Management
-> Status: 🚧 Draft — notes to be expanded
+Create a role in target account, trust policy allows source account to assume.
 
-## Overview
-
-_TODO: Add a concise overview of **Cross Account Access And Roles** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [IAM Best Practices & Security](05-iam-best-practices-and-security.md)
