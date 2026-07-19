@@ -1,29 +1,5 @@
-# Nosql And Graph Database Options
+# DocumentDB & Neptune
 
-> Section: 05 Databases
-> Status: 🚧 Draft — notes to be expanded
+DocumentDB: MongoDB‑compatible. Neptune: graph database (property graph, RDF).
 
-## Overview
-
-_TODO: Add a concise overview of **Nosql And Graph Database Options** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **06-networking-and-content-delivery** – [VPC](../06-networking-and-content-delivery/vpc/01-vpc-cidr-subnets-route-tables.md)
