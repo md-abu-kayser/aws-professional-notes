@@ -1,29 +1,5 @@
-# Security Groups And Key Pairs
+# Security Groups & Key Pairs
 
-> Section: 03 Compute
-> Status: 🚧 Draft — notes to be expanded
+Virtual firewalls. Key pairs for SSH access.
 
-## Overview
-
-_TODO: Add a concise overview of **Security Groups And Key Pairs** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Elastic IPs & Networking Basics](03-eip-and-networking-basics.md)
