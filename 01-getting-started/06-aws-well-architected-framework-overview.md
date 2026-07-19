@@ -1,29 +1,5 @@
-# Aws Well Architected Framework Overview
+# AWS Well‑Architected Framework
 
-> Section: 01 Getting Started
-> Status: 🚧 Draft — notes to be expanded
+Five pillars: Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization.
 
-## Overview
-
-_TODO: Add a concise overview of **Aws Well Architected Framework Overview** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **02-iam** – [Users, Groups, and Roles](../02-iam-identity-and-access-management/01-users-groups-and-roles.md)

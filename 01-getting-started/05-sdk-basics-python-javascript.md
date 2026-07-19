@@ -1,29 +1,7 @@
-# Sdk Basics Python Javascript
+# SDK Basics – boto3 & AWS SDK for JavaScript
 
-> Section: 01 Getting Started
-> Status: 🚧 Draft — notes to be expanded
-
-## Overview
-
-_TODO: Add a concise overview of **Sdk Basics Python Javascript** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
+```python
+import boto3
+s3 = boto3.client('s3')
+s3.list_buckets()
 ```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)

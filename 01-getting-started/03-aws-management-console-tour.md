@@ -1,29 +1,5 @@
-# Aws Management Console Tour
+# AWS Management Console Tour
 
-> Section: 01 Getting Started
-> Status: 🚧 Draft — notes to be expanded
+Overview of search bar, service categories, region selector, account menu.
 
-## Overview
-
-_TODO: Add a concise overview of **Aws Management Console Tour** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [AWS CLI Installation & Configuration](04-aws-cli-installation-and-configuration.md)

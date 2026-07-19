@@ -1,29 +1,6 @@
-# Aws Cli Installation And Configuration
-
-> Section: 01 Getting Started
-> Status: 🚧 Draft — notes to be expanded
-
-## Overview
-
-_TODO: Add a concise overview of **Aws Cli Installation And Configuration** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
+# AWS CLI Installation & Configuration
 
 ```bash
-# TODO: add relevant AWS CLI commands
-aws --version
+pip install awscli
+aws configure
 ```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
