@@ -1,29 +1,5 @@
-# Volume Types And Performance
+# EBS Volume Types & Performance
 
-> Section: 04 Storage
-> Status: 🚧 Draft — notes to be expanded
+gp3, gp2, io1, io2, st1, sc1. Baseline performance and burst.
 
-## Overview
-
-_TODO: Add a concise overview of **Volume Types And Performance** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Snapshots & DLM](02-snapshots-and-dlm.md)
