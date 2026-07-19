@@ -1,29 +1,5 @@
-# Access Points And Pre Signed Urls
+# Access Points & Pre‑signed URLs
 
-> Section: 04 Storage
-> Status: 🚧 Draft — notes to be expanded
+Manage access with shared datasets. Pre‑signed URLs grant temporary access.
 
-## Overview
-
-_TODO: Add a concise overview of **Access Points And Pre Signed Urls** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **EBS** – [Volume Types & Performance](../ebs/01-volume-types-and-performance.md)
