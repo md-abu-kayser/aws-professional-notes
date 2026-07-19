@@ -1,29 +1,5 @@
-# Vpc Integration And Networking
+# VPC Integration & Networking
 
-> Section: 03 Compute
-> Status: 🚧 Draft — notes to be expanded
+Connect Lambda to private resources via VPC.
 
-## Overview
-
-_TODO: Add a concise overview of **Vpc Integration And Networking** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Lambda Destinations & Step Functions](04-lambda-destinations-and-step-functions.md)

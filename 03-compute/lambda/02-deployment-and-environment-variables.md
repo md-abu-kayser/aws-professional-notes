@@ -1,29 +1,5 @@
-# Deployment And Environment Variables
+# Deployment & Environment Variables
 
-> Section: 03 Compute
-> Status: 🚧 Draft — notes to be expanded
+Zip upload, S3, Docker images. Configure environment variables.
 
-## Overview
-
-_TODO: Add a concise overview of **Deployment And Environment Variables** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [VPC Integration & Networking](03-vpc-integration-and-networking.md)

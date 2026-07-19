@@ -1,29 +1,5 @@
-# Lambda Destinations And Step Functions
+# Lambda Destinations & Step Functions
 
-> Section: 03 Compute
-> Status: 🚧 Draft — notes to be expanded
+Route async results. Orchestrate functions with Step Functions.
 
-## Overview
-
-_TODO: Add a concise overview of **Lambda Destinations And Step Functions** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Powertools & Best Practices](05-powertools-and-best-practices.md)
