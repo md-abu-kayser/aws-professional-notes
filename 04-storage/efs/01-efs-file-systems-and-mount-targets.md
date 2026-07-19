@@ -1,29 +1,5 @@
-# Efs File Systems And Mount Targets
+# EFS File Systems & Mount Targets
 
-> Section: 04 Storage
-> Status: 🚧 Draft — notes to be expanded
+Elastic NFS, shared across multiple EC2 instances.
 
-## Overview
-
-_TODO: Add a concise overview of **Efs File Systems And Mount Targets** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Performance Modes & Encryption](02-performance-modes-and-encryption.md)
