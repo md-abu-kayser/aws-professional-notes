@@ -1,29 +1,7 @@
-# Users Groups And Roles
+# Users, Groups & Roles
 
-> Section: 02 Iam Identity And Access Management
-> Status: 🚧 Draft — notes to be expanded
+- **User**: individual person/service.
+- **Group**: collection of users.
+- **Role**: assumed by services or users temporarily.
 
-## Overview
-
-_TODO: Add a concise overview of **Users Groups And Roles** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Policies & Permissions Basics](02-policies-and-permissions-basics.md)
