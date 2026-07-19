@@ -1,29 +1,5 @@
-# Placement Groups And Hpc
+# Placement Groups & HPC
 
-> Section: 03 Compute
-> Status: 🚧 Draft — notes to be expanded
+Cluster, spread, partition groups for low latency or high availability.
 
-## Overview
-
-_TODO: Add a concise overview of **Placement Groups And Hpc** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Auto Scaling & Launch Templates](06-auto-scaling-and-launch-templates.md)

@@ -1,29 +1,5 @@
-# Ebs Volumes And Snapshots
+# EBS Volumes & Snapshots
 
-> Section: 03 Compute
-> Status: 🚧 Draft — notes to be expanded
+Block storage for EC2. Snapshot backup, volume resizing.
 
-## Overview
-
-_TODO: Add a concise overview of **Ebs Volumes And Snapshots** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Placement Groups & HPC](05-placement-groups-and-hpc.md)

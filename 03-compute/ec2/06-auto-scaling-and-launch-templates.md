@@ -1,29 +1,5 @@
-# Auto Scaling And Launch Templates
+# Auto Scaling & Launch Templates
 
-> Section: 03 Compute
-> Status: 🚧 Draft — notes to be expanded
+Automatically scale EC2 fleet based on demand. Define instance configuration in launch template.
 
-## Overview
-
-_TODO: Add a concise overview of **Auto Scaling And Launch Templates** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Spot Instances & Savings Plans](07-spot-instances-and-savings-plans.md)
