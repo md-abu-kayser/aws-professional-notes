@@ -1,29 +1,5 @@
-# Identity And Access Management Concepts
+# Identity & Access Management Concepts
 
-> Section: 00 Prerequisites
-> Status: 🚧 Draft — notes to be expanded
+Authentication vs authorization, users, groups, roles, policies.
 
-## Overview
-
-_TODO: Add a concise overview of **Identity And Access Management Concepts** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **01-getting-started** – [What is AWS?](../01-getting-started/01-what-is-aws.md)

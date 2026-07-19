@@ -1,29 +1,5 @@
-# Storage And Database Basics
+# Storage & Database Basics
 
-> Section: 00 Prerequisites
-> Status: 🚧 Draft — notes to be expanded
+Block vs file vs object storage. SQL vs NoSQL. AWS services map to these.
 
-## Overview
-
-_TODO: Add a concise overview of **Storage And Database Basics** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Linux & Command Line Basics](04-linux-and-command-line-basics.md)
