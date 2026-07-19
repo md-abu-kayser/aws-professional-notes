@@ -1,29 +1,5 @@
 # Lightsail Basics
 
-> Section: 03 Compute
-> Status: 🚧 Draft — notes to be expanded
+Simplified VPS, pre‑configured stacks (WordPress, LAMP). Fixed pricing.
 
-## Overview
-
-_TODO: Add a concise overview of **Lightsail Basics** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **04-storage** – [S3](../04-storage/s3/01-buckets-objects-and-versioning.md)
