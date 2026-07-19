@@ -1,29 +1,5 @@
-# Beanstalk Concepts
+# Elastic Beanstalk Concepts
 
-> Section: 03 Compute
-> Status: 🚧 Draft — notes to be expanded
+PaaS for web apps. Handles capacity, load balancing, auto‑scaling.
 
-## Overview
-
-_TODO: Add a concise overview of **Beanstalk Concepts** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Deployment Policies & Environments](02-deployment-policies-and-environments.md)
