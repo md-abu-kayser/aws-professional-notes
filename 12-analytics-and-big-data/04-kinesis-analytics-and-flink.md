@@ -1,29 +1,5 @@
-# Kinesis Analytics And Flink
+# Kinesis Analytics & Flink
 
-> Section: 12 Analytics And Big Data
-> Status: 🚧 Draft — notes to be expanded
+Real‑time analytics with SQL or Apache Flink.
 
-## Overview
-
-_TODO: Add a concise overview of **Kinesis Analytics And Flink** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [QuickSight Dashboards](05-quicksight-dashboards.md)

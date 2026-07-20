@@ -1,29 +1,5 @@
-# Quicksight Dashboards
+# QuickSight Dashboards
 
-> Section: 12 Analytics And Big Data
-> Status: 🚧 Draft — notes to be expanded
+BI service for visualizations and dashboards.
 
-## Overview
-
-_TODO: Add a concise overview of **Quicksight Dashboards** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **13-machine-learning-and-ai** – [SageMaker Notebooks & Training](../13-machine-learning-and-ai/01-sagemaker-notebooks-and-training.md)
