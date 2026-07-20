@@ -1,29 +1,5 @@
-# Lambda At Edge And Cloudfront Functions
+# Lambda@Edge & CloudFront Functions
 
-> Section: 06 Networking And Content Delivery
-> Status: 🚧 Draft — notes to be expanded
+Run code at edge locations for request/response manipulation.
 
-## Overview
-
-_TODO: Add a concise overview of **Lambda At Edge And Cloudfront Functions** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **API Gateway** – [REST API vs HTTP API](../api-gateway/01-rest-api-vs-http-api.md)
