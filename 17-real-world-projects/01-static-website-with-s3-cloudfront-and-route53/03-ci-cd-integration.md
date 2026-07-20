@@ -1,29 +1,5 @@
-# Ci Cd Integration
+# CI/CD Integration
 
-> Section: 17 Real World Projects
-> Status: 🚧 Draft — notes to be expanded
+Use CodePipeline to sync website from source repo to S3 and invalidate CloudFront.
 
-## Overview
-
-_TODO: Add a concise overview of **Ci Cd Integration** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **Serverless API with Lambda, API Gateway, DynamoDB** – [API Design & Lambda Functions](../02-serverless-api-with-lambda-api-gateway-dynamodb/01-api-design-and-lambda-functions.md)

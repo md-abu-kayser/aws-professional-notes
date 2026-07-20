@@ -1,29 +1,5 @@
-# Cdn And Ssl Certificate
+# CDN & SSL Certificate
 
-> Section: 17 Real World Projects
-> Status: 🚧 Draft — notes to be expanded
+Create CloudFront distribution, attach ACM certificate.
 
-## Overview
-
-_TODO: Add a concise overview of **Cdn And Ssl Certificate** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [CI/CD Integration](03-ci-cd-integration.md)

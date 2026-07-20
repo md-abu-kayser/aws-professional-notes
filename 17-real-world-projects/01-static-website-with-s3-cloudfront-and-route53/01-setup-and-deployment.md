@@ -1,29 +1,5 @@
-# Setup And Deployment
+# Static Website – Setup & Deployment
 
-> Section: 17 Real World Projects
-> Status: 🚧 Draft — notes to be expanded
+Create S3 bucket, enable static hosting, upload files.
 
-## Overview
-
-_TODO: Add a concise overview of **Setup And Deployment** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [CDN & SSL Certificate](02-cdn-and-ssl-certificate.md)
