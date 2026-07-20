@@ -1,29 +1,3 @@
-# Aws Cli Reference
+# AWS CLI Reference
 
-> Section: 19 Resources Cheatsheets
-> Status: 🚧 Draft — notes to be expanded
-
-## Overview
-
-_TODO: Add a concise overview of **Aws Cli Reference** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+Common commands: `aws s3 ls`, `aws ec2 describe-instances`, `aws lambda invoke`, `aws iam list-users`.
