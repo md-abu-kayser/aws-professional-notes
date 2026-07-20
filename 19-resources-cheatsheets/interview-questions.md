@@ -1,29 +1,7 @@
-# Interview Questions
+# AWS Interview Questions
 
-> Section: 19 Resources Cheatsheets
-> Status: 🚧 Draft — notes to be expanded
-
-## Overview
-
-_TODO: Add a concise overview of **Interview Questions** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+- Explain the AWS shared responsibility model.
+- What is the difference between security groups and NACLs?
+- How does S3 versioning work?
+- Describe a scenario for using Lambda vs EC2.
+- What is an Auto Scaling group?
