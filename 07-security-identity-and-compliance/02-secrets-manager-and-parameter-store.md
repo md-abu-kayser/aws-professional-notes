@@ -1,29 +1,5 @@
-# Secrets Manager And Parameter Store
+# Secrets Manager & Parameter Store
 
-> Section: 07 Security Identity And Compliance
-> Status: 🚧 Draft — notes to be expanded
+Secrets Manager: rotation, fine‑grained policies. Parameter Store: simple key‑value.
 
-## Overview
-
-_TODO: Add a concise overview of **Secrets Manager And Parameter Store** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Shield, WAF & Firewall Manager](03-shield-waf-and-firewall-manager.md)

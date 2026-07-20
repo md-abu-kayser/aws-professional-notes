@@ -1,29 +1,5 @@
-# Config And Audit Manager
+# AWS Config & Audit Manager
 
-> Section: 07 Security Identity And Compliance
-> Status: 🚧 Draft — notes to be expanded
+Resource compliance, inventory. Audit Manager for continuous evidence.
 
-## Overview
-
-_TODO: Add a concise overview of **Config And Audit Manager** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **08-serverless-and-application-integration** – [SQS](../08-serverless-and-application-integration/01-sqs-standard-vs-fifo.md)
