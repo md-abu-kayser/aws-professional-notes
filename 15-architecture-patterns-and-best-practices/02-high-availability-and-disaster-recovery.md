@@ -1,29 +1,5 @@
-# High Availability And Disaster Recovery
+# High Availability & Disaster Recovery
 
-> Section: 15 Architecture Patterns And Best Practices
-> Status: 🚧 Draft — notes to be expanded
+Multi‑AZ, multi‑region patterns. RPO/RTO.
 
-## Overview
-
-_TODO: Add a concise overview of **High Availability And Disaster Recovery** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Event‑Driven Architecture with AWS](03-event-driven-architecture-with-aws.md)
