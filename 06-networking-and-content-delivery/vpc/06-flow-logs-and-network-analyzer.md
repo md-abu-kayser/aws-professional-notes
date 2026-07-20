@@ -1,29 +1,5 @@
-# Flow Logs And Network Analyzer
+# Flow Logs & Network Analyzer
 
-> Section: 06 Networking And Content Delivery
-> Status: 🚧 Draft — notes to be expanded
+Capture IP traffic. Reachability Analyzer for troubleshooting.
 
-## Overview
-
-_TODO: Add a concise overview of **Flow Logs And Network Analyzer** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **Route 53** – [DNS Zones & Record Types](../route53/01-dns-zones-and-record-types.md)

@@ -1,29 +1,5 @@
-# Vpc Endpoints Gateway And Interface
+# VPC Endpoints
 
-> Section: 06 Networking And Content Delivery
-> Status: 🚧 Draft — notes to be expanded
+Private access to AWS services without internet. Gateway (S3, DynamoDB), Interface (others).
 
-## Overview
-
-_TODO: Add a concise overview of **Vpc Endpoints Gateway And Interface** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Flow Logs & Network Analyzer](06-flow-logs-and-network-analyzer.md)
