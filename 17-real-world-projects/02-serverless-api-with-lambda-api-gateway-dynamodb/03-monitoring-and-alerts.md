@@ -1,29 +1,5 @@
-# Monitoring And Alerts
+# Monitoring & Alerts
 
-> Section: 17 Real World Projects
-> Status: 🚧 Draft — notes to be expanded
+CloudWatch metrics, dashboards, SNS alerts on errors.
 
-## Overview
-
-_TODO: Add a concise overview of **Monitoring And Alerts** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **Web Application on ECS with ALB and RDS** – [Containerizing the App](../03-web-application-on-ecs-with-alb-and-rds/01-containerizing-the-app.md)
