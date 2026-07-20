@@ -1,29 +1,5 @@
-# Fargate For Eks And Ecs
+# Fargate for EKS & ECS
 
-> Section: 11 Containers And Kubernetes Advanced
-> Status: 🚧 Draft — notes to be expanded
+Serverless compute for containers. No node management.
 
-## Overview
-
-_TODO: Add a concise overview of **Fargate For Eks And Ecs** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [App Mesh & Service Mesh](04-app-mesh-and-service-mesh.md)

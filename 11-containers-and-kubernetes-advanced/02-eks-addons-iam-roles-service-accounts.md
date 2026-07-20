@@ -1,29 +1,5 @@
-# Eks Addons Iam Roles Service Accounts
+# EKS Add‑ons & IAM Roles for Service Accounts (IRSA)
 
-> Section: 11 Containers And Kubernetes Advanced
-> Status: 🚧 Draft — notes to be expanded
+Manage add‑ons. Grant pods IAM permissions without node‑wide roles.
 
-## Overview
-
-_TODO: Add a concise overview of **Eks Addons Iam Roles Service Accounts** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Fargate for EKS & ECS](03-fargate-for-eks-and-ecs.md)
