@@ -1,29 +1,5 @@
-# Rest Api Vs Http Api
+# API Gateway – REST API vs HTTP API
 
-> Section: 06 Networking And Content Delivery
-> Status: 🚧 Draft — notes to be expanded
+REST: full features. HTTP: cheaper, low latency, simpler.
 
-## Overview
-
-_TODO: Add a concise overview of **Rest Api Vs Http Api** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Integration with Lambda & VPC Link](02-integration-with-lambda-and-vpc-link.md)

@@ -1,29 +1,5 @@
-# Usage Plans And Api Keys
+# Usage Plans & API Keys
 
-> Section: 06 Networking And Content Delivery
-> Status: 🚧 Draft — notes to be expanded
+Rate limiting, throttling, API keys for client identification.
 
-## Overview
-
-_TODO: Add a concise overview of **Usage Plans And Api Keys** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **Global Accelerator** – [Static IP & Regional Routing](../global-accelerator/01-static-ip-and-regional-routing.md)
