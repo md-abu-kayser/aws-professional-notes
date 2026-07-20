@@ -1,29 +1,5 @@
-# Bedrock And Foundation Models
+# Bedrock & Foundation Models
 
-> Section: 13 Machine Learning And Ai
-> Status: 🚧 Draft — notes to be expanded
+Serverless access to foundation models (AI21, Anthropic, Stability).
 
-## Overview
-
-_TODO: Add a concise overview of **Bedrock And Foundation Models** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Rekognition, Comprehend, Translate](03-rekognition-comprehend-translate.md)

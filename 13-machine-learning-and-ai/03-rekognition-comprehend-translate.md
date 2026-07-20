@@ -1,29 +1,5 @@
-# Rekognition Comprehend Translate
+# Rekognition, Comprehend, Translate
 
-> Section: 13 Machine Learning And Ai
-> Status: 🚧 Draft — notes to be expanded
+Image/video analysis, NLP, and language translation.
 
-## Overview
-
-_TODO: Add a concise overview of **Rekognition Comprehend Translate** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Polly & Lex](04-polly-and-lex.md)

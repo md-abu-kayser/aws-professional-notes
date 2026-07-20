@@ -1,29 +1,5 @@
-# Polly And Lex
+# Polly & Lex
 
-> Section: 13 Machine Learning And Ai
-> Status: 🚧 Draft — notes to be expanded
+Text‑to‑speech and conversational interfaces (chatbots).
 
-## Overview
-
-_TODO: Add a concise overview of **Polly And Lex** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **14-cost-optimization-and-billing** – [AWS Budget & Cost Explorer](../14-cost-optimization-and-billing/01-aws-budget-and-cost-explorer.md)
