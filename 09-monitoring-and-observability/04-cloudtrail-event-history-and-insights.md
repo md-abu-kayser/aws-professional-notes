@@ -1,29 +1,5 @@
-# Cloudtrail Event History And Insights
+# CloudTrail Event History & Insights
 
-> Section: 09 Monitoring And Observability
-> Status: 🚧 Draft — notes to be expanded
+Audit API calls. Insights detects unusual activity.
 
-## Overview
-
-_TODO: Add a concise overview of **Cloudtrail Event History And Insights** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Distributed Tracing & Service Lens](05-distributed-tracing-and-service-lens.md)

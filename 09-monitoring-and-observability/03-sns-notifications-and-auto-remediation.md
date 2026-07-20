@@ -1,29 +1,5 @@
-# Sns Notifications And Auto Remediation
+# SNS Notifications & Auto‑Remediation
 
-> Section: 09 Monitoring And Observability
-> Status: 🚧 Draft — notes to be expanded
+Trigger actions from alarms. Lambda for remediation.
 
-## Overview
-
-_TODO: Add a concise overview of **Sns Notifications And Auto Remediation** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [CloudTrail Event History & Insights](04-cloudtrail-event-history-and-insights.md)
