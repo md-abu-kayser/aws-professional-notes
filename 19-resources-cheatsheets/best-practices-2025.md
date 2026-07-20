@@ -1,29 +1,7 @@
-# Best Practices 2025
+# AWS Best Practices 2026
 
-> Section: 19 Resources Cheatsheets
-> Status: 🚧 Draft — notes to be expanded
-
-## Overview
-
-_TODO: Add a concise overview of **Best Practices 2025** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+- Use infrastructure as code (CDK/CloudFormation).
+- Enable MFA and use IAM roles.
+- Encrypt data at rest and in transit.
+- Monitor costs with budgets and anomaly detection.
+- Follow the Well‑Architected Framework.
