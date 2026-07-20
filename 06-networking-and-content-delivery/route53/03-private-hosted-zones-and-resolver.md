@@ -1,29 +1,5 @@
-# Private Hosted Zones And Resolver
+# Private Hosted Zones & Resolver
 
-> Section: 06 Networking And Content Delivery
-> Status: 🚧 Draft — notes to be expanded
+DNS for internal resources. Route 53 Resolver for hybrid.
 
-## Overview
-
-_TODO: Add a concise overview of **Private Hosted Zones And Resolver** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **CloudFront** – [Distributions & Origins](../cloudfront/01-distributions-and-origins.md)
