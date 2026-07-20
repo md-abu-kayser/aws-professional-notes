@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/md-abu-kayser/aws-professional-notes/issues"
   },
-  "homepage": "https://github.com/md-abu-kayser/aws-professional-notes#readme"
+  "homepage": "https://github.com/md-abu-kayser/aws-professional-notes#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
 }
