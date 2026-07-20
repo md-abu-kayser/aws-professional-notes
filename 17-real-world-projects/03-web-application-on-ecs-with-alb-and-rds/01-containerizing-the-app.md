@@ -1,29 +1,5 @@
-# Containerizing The App
+# Web App on ECS – Containerizing
 
-> Section: 17 Real World Projects
-> Status: 🚧 Draft — notes to be expanded
+Write Dockerfile, push image to ECR.
 
-## Overview
-
-_TODO: Add a concise overview of **Containerizing The App** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Task Definition & Service](02-task-definition-and-service.md)

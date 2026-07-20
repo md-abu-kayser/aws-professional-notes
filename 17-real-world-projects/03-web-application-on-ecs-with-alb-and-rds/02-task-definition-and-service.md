@@ -1,29 +1,5 @@
-# Task Definition And Service
+# Task Definition & Service
 
-> Section: 17 Real World Projects
-> Status: 🚧 Draft — notes to be expanded
+Define task (container, resources), create service with ALB.
 
-## Overview
-
-_TODO: Add a concise overview of **Task Definition And Service** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Scaling & Rolling Updates](03-scaling-and-rolling-updates.md)

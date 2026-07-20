@@ -1,29 +1,5 @@
-# Scaling And Rolling Updates
+# Scaling & Rolling Updates
 
-> Section: 17 Real World Projects
-> Status: 🚧 Draft — notes to be expanded
+Service auto‑scaling, rolling update configuration.
 
-## Overview
-
-_TODO: Add a concise overview of **Scaling And Rolling Updates** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **Data Lake with S3, Glue, and Athena** – [Ingestion & Crawlers](../04-data-lake-with-s3-glue-and-athena/01-ingestion-and-crawlers.md)

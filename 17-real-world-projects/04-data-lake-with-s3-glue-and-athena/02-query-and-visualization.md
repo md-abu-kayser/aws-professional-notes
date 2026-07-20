@@ -1,29 +1,5 @@
-# Query And Visualization
+# Query & Visualization
 
-> Section: 17 Real World Projects
-> Status: 🚧 Draft — notes to be expanded
+Query with Athena, visualize with QuickSight.
 
-## Overview
-
-_TODO: Add a concise overview of **Query And Visualization** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **Disaster Recovery Drill Across Regions** – [Pilot Light & Warm Standby](../05-disaster-recovery-drill-across-regions/01-pilot-light-and-warm-standby.md)
