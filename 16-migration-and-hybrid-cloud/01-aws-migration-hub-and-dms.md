@@ -1,29 +1,5 @@
-# Aws Migration Hub And Dms
+# Migration Hub & Database Migration Service (DMS)
 
-> Section: 16 Migration And Hybrid Cloud
-> Status: 🚧 Draft — notes to be expanded
+Track migration progress. DMS for homogeneous/heterogeneous database migration.
 
-## Overview
-
-_TODO: Add a concise overview of **Aws Migration Hub And Dms** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Server Migration Service](02-server-migration-service.md)

@@ -1,29 +1,5 @@
-# Outposts And Local Zones
+# Outposts & Local Zones
 
-> Section: 16 Migration And Hybrid Cloud
-> Status: 🚧 Draft — notes to be expanded
+Run AWS infrastructure on‑premises (Outposts), low‑latency edge (Local Zones).
 
-## Overview
-
-_TODO: Add a concise overview of **Outposts And Local Zones** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **17-real-world-projects** – [Static Website with S3, CloudFront, Route53](../17-real-world-projects/01-static-website-with-s3-cloudfront-and-route53/01-setup-and-deployment.md)
