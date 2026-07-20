@@ -1,29 +1,3 @@
 # Core Services Cheatsheet
 
-> Section: 19 Resources Cheatsheets
-> Status: 🚧 Draft — notes to be expanded
-
-## Overview
-
-_TODO: Add a concise overview of **Core Services Cheatsheet** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+Compute: EC2, Lambda, ECS, EKS. Storage: S3, EBS, EFS. DB: RDS, DynamoDB. Networking: VPC, CloudFront.
