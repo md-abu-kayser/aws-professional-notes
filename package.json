@@ -1,0 +1,20 @@
+{
+  "name": "aws-professional-notes",
+  "version": "1.0.0",
+  "description": "A structured, professional-grade collection of notes, cheatsheets, code snippets, and real-world project walkthroughs for learning and mastering **Amazon Web Services (AWS)** — from fundamentals to advanced architecture patterns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md-abu-kayser/aws-professional-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/md-abu-kayser/aws-professional-notes/issues"
+  },
+  "homepage": "https://github.com/md-abu-kayser/aws-professional-notes#readme"
+}
