@@ -1,29 +1,5 @@
-# Kinesis Data Streams Firehose Analytics
+# Kinesis – Data Streams, Firehose, Analytics
 
-> Section: 08 Serverless And Application Integration
-> Status: 🚧 Draft — notes to be expanded
+Real‑time streaming. Firehose loads data into destinations. Analytics with SQL/Flink.
 
-## Overview
-
-_TODO: Add a concise overview of **Kinesis Data Streams Firehose Analytics** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **09-monitoring-and-observability** – [CloudWatch Metrics, Logs, Alarms](../09-monitoring-and-observability/01-cloudwatch-metrics-logs-alarms.md)

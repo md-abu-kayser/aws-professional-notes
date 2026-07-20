@@ -1,29 +1,5 @@
-# Sqs Standard Vs Fifo
+# SQS – Standard vs FIFO
 
-> Section: 08 Serverless And Application Integration
-> Status: 🚧 Draft — notes to be expanded
+Standard: high throughput, at‑least‑once. FIFO: exactly‑once, ordered.
 
-## Overview
-
-_TODO: Add a concise overview of **Sqs Standard Vs Fifo** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [SNS Topics & Subscriptions](02-sns-topics-and-subscriptions.md)
