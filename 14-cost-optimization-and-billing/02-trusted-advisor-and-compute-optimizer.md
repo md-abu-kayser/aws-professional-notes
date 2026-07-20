@@ -1,29 +1,5 @@
-# Trusted Advisor And Compute Optimizer
+# Trusted Advisor & Compute Optimizer
 
-> Section: 14 Cost Optimization And Billing
-> Status: 🚧 Draft — notes to be expanded
+Best practice checks and rightsizing recommendations.
 
-## Overview
-
-_TODO: Add a concise overview of **Trusted Advisor And Compute Optimizer** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Savings Plans & Reserved Instances](03-savings-plans-and-reserved-instances.md)

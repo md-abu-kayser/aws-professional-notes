@@ -1,29 +1,5 @@
-# Aws Budget And Cost Explorer
+# AWS Budget & Cost Explorer
 
-> Section: 14 Cost Optimization And Billing
-> Status: 🚧 Draft — notes to be expanded
+Set cost/usage budgets. Analyze and forecast spending.
 
-## Overview
-
-_TODO: Add a concise overview of **Aws Budget And Cost Explorer** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [Trusted Advisor & Compute Optimizer](02-trusted-advisor-and-compute-optimizer.md)

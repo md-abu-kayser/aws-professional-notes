@@ -1,29 +1,5 @@
-# Cur And Cost Anomaly Detection
+# Cost & Usage Report (CUR) & Anomaly Detection
 
-> Section: 14 Cost Optimization And Billing
-> Status: 🚧 Draft — notes to be expanded
+Detailed billing data. Detect unexpected cost spikes.
 
-## Overview
-
-_TODO: Add a concise overview of **Cur And Cost Anomaly Detection** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **15-architecture-patterns-and-best-practices** – [Well‑Architected Framework Pillars](../15-architecture-patterns-and-best-practices/01-well-architected-framework-pillars.md)

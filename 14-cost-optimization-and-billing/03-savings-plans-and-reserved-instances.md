@@ -1,29 +1,5 @@
-# Savings Plans And Reserved Instances
+# Savings Plans & Reserved Instances
 
-> Section: 14 Cost Optimization And Billing
-> Status: 🚧 Draft — notes to be expanded
+Commitment discounts for steady usage.
 
-## Overview
-
-_TODO: Add a concise overview of **Savings Plans And Reserved Instances** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: [CUR & Cost Anomaly Detection](04-cur-and-cost-anomaly-detection.md)
