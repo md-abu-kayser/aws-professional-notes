@@ -1,29 +1,5 @@
-# Automation With Cloudformation
+# Automation with CloudFormation
 
-> Section: 17 Real World Projects
-> Status: 🚧 Draft — notes to be expanded
+Template to spin up DR environment. CI/CD to test failover.
 
-## Overview
-
-_TODO: Add a concise overview of **Automation With Cloudformation** here._
-
-## Key Concepts
-
-- _TODO_
-- _TODO_
-- _TODO_
-
-## Hands-on / CLI Examples
-
-```bash
-# TODO: add relevant AWS CLI commands
-aws --version
-```
-
-## Exam / Interview Tips
-
-- _TODO: add common gotchas and exam-style tips_
-
-## References
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
+> 📘 Next: **18-code-snippets** – [CloudFormation Templates](../18-code-snippets/cloudformation-templates/vpc-with-subnets.yaml)
